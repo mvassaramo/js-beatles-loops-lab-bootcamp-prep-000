@@ -13,7 +13,7 @@ let n = 0;
 let factsArray = [ ];
 while( n < johnLennonFacts.length) { 
   n++;
-    facts.push(`${johnLennonFacts[n]}!!!`);
+    factsArray.push(`${johnLennonFacts[n]}!!!`);
   }
   return factsArray;
 }
