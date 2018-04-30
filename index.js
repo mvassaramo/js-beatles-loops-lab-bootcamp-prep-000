@@ -9,8 +9,6 @@ return emptyArray;
 }
 
 function johnlennonFacts(johnLennonFacts) {
-  
-  
 }
 
 
