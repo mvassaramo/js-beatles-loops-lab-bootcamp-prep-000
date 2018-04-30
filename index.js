@@ -9,6 +9,9 @@ return emptyArray;
 }
 
 function johnLennonFacts(johnLennonFacts) {
+while( n <= johnLennonFacts.length) {
+   return console.log(`${johnLennonFacts}!!!`);
+  }
 }
 
 
