@@ -8,7 +8,7 @@ for ( let i = 0; i < musicians.length; i++) {
 return emptyArray;
 }
 
-function johnlennonFacts(johnLennonFacts) {
+function johnLennonFacts(johnLennonFacts) {
 }
 
 
