@@ -12,7 +12,7 @@ function johnLennonFacts(johnLennonFacts) {
 let n = 0;
 while( n <= johnLennonFacts.length) { 
   n++;
-    console.log(`${johnLennonFacts}!!!`);
+    console.log(`${johnLennonFacts[n]}!!!`);
   }
 }
 
