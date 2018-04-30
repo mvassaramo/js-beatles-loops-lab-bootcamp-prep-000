@@ -12,8 +12,8 @@ function johnLennonFacts(johnLennonFacts) {
 let n = 0;
 let factsArray = [ ];
 while( n < johnLennonFacts.length) { 
-  n++;
     factsArray.push(`${johnLennonFacts[n]}!!!`);
+     n++;
   }
   return factsArray;
 }
