@@ -15,6 +15,7 @@ while( n <= johnLennonFacts.length) {
   n++;
     facts.push(`${johnLennonFacts[n]}!!!`);
   }
+  return facts;
 }
 
 
