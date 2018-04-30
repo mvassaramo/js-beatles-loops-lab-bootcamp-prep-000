@@ -10,12 +10,12 @@ return emptyArray;
 
 function johnLennonFacts(johnLennonFacts) {
 let n = 0;
-let facts = [ ];
+let factsArray = [ ];
 while( n < johnLennonFacts.length) { 
   n++;
     facts.push(`${johnLennonFacts[n]}!!!`);
   }
-  return facts;
+  return factsArray;
 }
 
 
