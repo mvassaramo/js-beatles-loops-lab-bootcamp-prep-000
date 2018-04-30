@@ -11,7 +11,7 @@ return emptyArray;
 function johnLennonFacts(johnLennonFacts) {
 let n = 0;
 let factsArray = [ ];
-while( n < johnLennonFacts.length) { 
+while( n <= johnLennonFacts.length) { 
     factsArray.push(`${johnLennonFacts[n]}!!!`);
      n++;
   }
